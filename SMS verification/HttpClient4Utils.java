@@ -18,8 +18,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 /*
- * @(#) HttpClientUtils.java 2019年1月14日
- *
+ *Created by lenovo on 2019/1/14.
  */
 
 /**
