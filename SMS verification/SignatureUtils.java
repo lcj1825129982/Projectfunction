@@ -6,8 +6,7 @@ import java.util.Map;
 
 
 /*
- * @(#) SignatureUtils.java 2019年1月14日
- *
+ *Created by lenovo on 2019/1/14.
  */
 
 /**
