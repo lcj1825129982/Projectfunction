@@ -20,7 +20,6 @@ import java.util.Map;
 /*
  * @(#) HttpClientUtils.java 2019年1月14日
  *
- * Copyright 2010 NetEase.com, Inc. All rights reserved.
  */
 
 /**
