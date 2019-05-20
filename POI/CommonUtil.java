@@ -1,6 +1,5 @@
 package com.qhit.utils;
 
-
 import org.apache.poi.hssf.usermodel.*;
 import org.apache.poi.hssf.util.CellRangeAddress;
 import java.io.FileOutputStream;
@@ -8,6 +7,11 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;
+
+
+/**
+ * Created by GeneratorCode on 2019/01/15
+ */
 
 public class CommonUtil {
 	public static Connection getConnection(){
