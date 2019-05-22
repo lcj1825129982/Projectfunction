@@ -10,7 +10,7 @@ import java.sql.ResultSetMetaData;
 
 
 /**
- * Created by GeneratorCode on 2019/01/15
+ * Created by GeneratorCode on 2019/02/15
  */
 
 public class CommonUtil {
